@@ -147,3 +147,7 @@ iframe{
     width:20%;
     height: 20%;
 }
+
+.adres:hover{
+    text-shadow: 10px 10px 10px #1B9AAA;
+}
