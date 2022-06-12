@@ -148,6 +148,6 @@ iframe{
     height: 20%;
 }
 
-.adres:hover{
+.about p:hover{
     text-shadow: 10px 10px 10px #1B9AAA;
 }
