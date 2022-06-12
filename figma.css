@@ -149,5 +149,5 @@ iframe{
 }
 
 .about p:hover{
-    text-shadow: 10px 10px 10px #1B9AAA;
+    box-shadow: 10px 10px 10px #1B9AAA;
 }
